@@ -95,6 +95,6 @@ To build the core structure of the game and enable users to register and take qu
 
 | Role | Description |
 |------|-------------|
-| **Backend (2 people)** | Developed login/registration functionality using FastAPI, connected the database, and implemented the favorite system. |
-| **Frontend (2 people)** | Created the quiz interface, options UI, and login/register forms using HTML and CSS. |
-| **Coordination & UI/UX (1 person)** | Managed communication within the team and planned a simple but effective page layout and user experience. This role was especially helpful for team members new to full-stack development. |
+| **Backend (1 person)** | Develop login/registration functionality using FastAPI, connected the database, and implemented the favorite system. |
+| **Frontend (1 person)** | Create the quiz interface, options UI, and login/register forms using HTML and CSS. |
+| **Coordination & UI/UX (1 person)** | Manage communication within the team and planned a simple but effective page layout and user experience. |
