@@ -1,6 +1,6 @@
 ## 🧠 Team & Product 
 
-![QuizMan Logo](./assets/logo.jepg)
+![QuizMan Logo](./assets/logo.jpeg)
 
 ---
 
